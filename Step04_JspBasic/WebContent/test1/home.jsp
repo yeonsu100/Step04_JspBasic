@@ -5,12 +5,16 @@
 <head>
 <meta charset="UTF-8">
 <title>/test1/home.jsp</title>
+<style>
+	h1{color:#FF6C6C;}
+</style>
 </head>
 <body>
 
 <h1>test of 'redirect move' HOME</h1>
 <ul>
-	<li><a href="game.jsp">Go to playing the game</a></li>
+	<li><a href="game.jsp">Go to playing the game - <strong>(jsp)</strong></a></li>
+	<li><a href="game">Go to playing the game - <strong>(servlet)</strong></a></li>
 </ul>
 
 </body>
