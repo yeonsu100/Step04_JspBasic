@@ -14,7 +14,8 @@
 
 <h1>INDEX PAGE</h1>
 <ul>
-	<li><a href="test1/home.jsp">test of 'redirect move'</a></li>
+	<li><a href="test1/home.jsp">Test of <strong>'Redirect moving'</strong></a></li>
+	<li><a href="test2/home.jsp">Test of <strong>'Forward moving'</strong></a></li>
 </ul>
 
 

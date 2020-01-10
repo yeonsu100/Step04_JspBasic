@@ -6,7 +6,7 @@
 <meta charset="UTF-8">
 <title>/test1/home.jsp</title>
 <style>
-	h1{color:#FF6C6C;}
+	h1{color:#00B4DB;}
 </style>
 </head>
 <body>
