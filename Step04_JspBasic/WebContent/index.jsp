@@ -16,6 +16,7 @@
 <ul>
 	<li><a href="test1/home.jsp">Test of <strong>'Redirect moving'</strong></a></li>
 	<li><a href="test2/home.jsp">Test of <strong>'Forward moving'</strong></a></li>
+	<li><a href="test3/home.jsp">Test of <strong>'scope'</a></li>	<!-- scope:영역 -->
 </ul>
 
 
